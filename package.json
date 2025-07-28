@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://braim-code.github.io/BC-PORT",
+  "homepage": "https://braim-code.github.io/portfolioweb",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@reduxjs/toolkit": "^2.5.0",
@@ -35,7 +35,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "globals": "^15.13.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
